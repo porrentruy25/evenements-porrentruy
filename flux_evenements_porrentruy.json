@@ -1,0 +1,405 @@
+{
+    "api_key": "123456",
+    "events": [
+        {
+            "event_id": "10d521f0bd43f90b4584c9598d2f9601",
+            "event_title": "Exposition de photos \"Flore jurassienne\"",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6550642"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6550642",
+            "image_url": null,
+            "venue_name": "Parc du Jardin botanique",
+            "venue_city": "Porrentruy",
+            "start_date": "14-06-2024",
+            "end_date": "23-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "fbccf87f18171513785256e2df873fd1",
+            "event_title": "Sésame, ouvre-toi !",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6561628"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6561628",
+            "image_url": null,
+            "venue_name": "Bibliothèque municipale",
+            "venue_city": "Porrentruy",
+            "start_date": "04-09-2024",
+            "end_date": "09-04-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "eb8ba7b6e53032884555fcb6e06091d0",
+            "event_title": "Exposition de Mariela De Santis",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6568678"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6568678",
+            "image_url": null,
+            "venue_name": "Bibliothèque municipale",
+            "venue_city": "Porrentruy",
+            "start_date": "11-02-2025",
+            "end_date": "29-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "0073d40c682704484c16b2f9b4f0bf56",
+            "event_title": "Chronique d'une maladie",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6550588"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6550588",
+            "image_url": null,
+            "venue_name": "Stamm Studio",
+            "venue_city": "Porrentruy",
+            "start_date": "02-03-2025",
+            "end_date": "09-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "60b5de25a42026090dff4cd0d58ef42f",
+            "event_title": "Cinémajoie",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6567526"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6567526",
+            "image_url": null,
+            "venue_name": "Cinémajoie",
+            "venue_city": "Porrentruy",
+            "start_date": "04-03-2025",
+            "end_date": "16-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "31ccd43e0c59a57ed1b72525fe8d0ca6",
+            "event_title": "Carnaval des enfants",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6535822"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6535822",
+            "image_url": null,
+            "venue_name": "Salle du Séminaire",
+            "venue_city": "Porrentruy",
+            "start_date": "04-03-2025",
+            "end_date": "04-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "0e524d3462f92a3d5bc51499135b473c",
+            "event_title": "Conférence U3A",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6535837"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6535837",
+            "image_url": null,
+            "venue_name": "Aula du collège Thurmann",
+            "venue_city": "Porrentruy",
+            "start_date": "05-03-2025",
+            "end_date": "05-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "60abb9d7e36adf45ddadd5fe9bd92d94",
+            "event_title": "Apocalypse des insectes ? Conférence de Christophe Bouget, chargé de recherche en entomologie forestière INRAE",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539665"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539665",
+            "image_url": null,
+            "venue_name": "Cinémajoie",
+            "venue_city": "Porrentruy",
+            "start_date": "07-03-2025",
+            "end_date": "07-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "3f6c06414910497ea3bc3eae2cc811f0",
+            "event_title": "La Bruntrutaine BCJ 2025",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539758"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539758",
+            "image_url": null,
+            "venue_name": "Vieille ville",
+            "venue_city": "Porrentruy",
+            "start_date": "08-03-2025",
+            "end_date": "08-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "204bf1810869326186212798db6b57bb",
+            "event_title": "Feu des Brandons",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539812"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539812",
+            "image_url": null,
+            "venue_name": "Ferme Roy",
+            "venue_city": "Porrentruy",
+            "start_date": "08-03-2025",
+            "end_date": "08-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "4d0f1ca405ba445618154e8528f848b9",
+            "event_title": "Brigitte Rosset",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539818"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539818",
+            "image_url": null,
+            "venue_name": "Salle de l'Inter",
+            "venue_city": "Porrentruy",
+            "start_date": "08-03-2025",
+            "end_date": "08-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "29a316a7d8e46d9b89e162b23cc6035e",
+            "event_title": "Barin : Au-delà des frontières",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539848"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539848",
+            "image_url": null,
+            "venue_name": "Salle des Hospitalières",
+            "venue_city": "Porrentruy",
+            "start_date": "09-03-2025",
+            "end_date": "09-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "5e25c0c2610d92e3fd393114aa27a613",
+            "event_title": "Foire",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6331999"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6331999",
+            "image_url": null,
+            "venue_name": "Vieille ville",
+            "venue_city": "Porrentruy",
+            "start_date": "15-03-2025",
+            "end_date": "15-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "ff2688d90df04755c6b6126627e92ef7",
+            "event_title": "Conférence U3A",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6539893"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6539893",
+            "image_url": null,
+            "venue_name": "Aula du collège Thurmann",
+            "venue_city": "Porrentruy",
+            "start_date": "19-03-2025",
+            "end_date": "19-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "5c351c05b1c0f5f32f033413fea9a4ca",
+            "event_title": "Humanités & Cie",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6556987"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6556987",
+            "image_url": null,
+            "venue_name": "Espace Renfer",
+            "venue_city": "Porrentruy",
+            "start_date": "24-03-2025",
+            "end_date": "24-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "1d8e22e65c15bdf33612f2ac663122c7",
+            "event_title": "Ce que je peux dire de mieux sur la musique",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6557032"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6557032",
+            "image_url": null,
+            "venue_name": "Salle de l'Inter",
+            "venue_city": "Porrentruy",
+            "start_date": "28-03-2025",
+            "end_date": "28-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "f08b33ad934a899919ea0244c5dc9311",
+            "event_title": "BiblioWeekend 2025",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6557092"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6557092",
+            "image_url": null,
+            "venue_name": "Espace Auguste Viatte",
+            "venue_city": "Porrentruy",
+            "start_date": "29-03-2025",
+            "end_date": "29-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "61ae571671e1001cda66b553d2fbd31c",
+            "event_title": "Le piano fait son cinéma !",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6560869"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6560869",
+            "image_url": null,
+            "venue_name": "Salle de l'Inter",
+            "venue_city": "Porrentruy",
+            "start_date": "29-03-2025",
+            "end_date": "29-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "078b6ef3668cfd3f54c353558f92b13d",
+            "event_title": "Souvenirs de Porrentruy",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6568726"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6568726",
+            "image_url": null,
+            "venue_name": "Salle de l'Inter",
+            "venue_city": "Porrentruy",
+            "start_date": "30-03-2025",
+            "end_date": "30-03-2025",
+            "date_status": ""
+        },
+        {
+            "event_id": "be83829af8cc374cbdbabc8eb43cce72",
+            "event_title": "Le discours",
+            "event_description": "Description non disponible",
+            "event_categories": [
+                "EX"
+            ],
+            "event_category_label": "Non spécifié",
+            "event_status": "PUBLIC",
+            "event_urls": [
+                "https://www.porrentruy.ch/_rte/anlass/6561475"
+            ],
+            "detail_url": "https://www.porrentruy.ch/_rte/anlass/6561475",
+            "image_url": null,
+            "venue_name": "Salle des Hospitalières",
+            "venue_city": "Porrentruy",
+            "start_date": "03-04-2025",
+            "end_date": "04-04-2025",
+            "date_status": ""
+        }
+    ]
+}
